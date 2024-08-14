@@ -1,0 +1,47 @@
+﻿Algorithms (выполнить):
+1)https://codeforces.com/problemset/problem/4/A done
+2)https://projecteuler.net/problem=1 done
+3)https://leetcode.com/problems/palindrome-number/ 
+4)скачать https://t.me/SenatorovBootcamp/766/8001 выписать 55стр до 63
+5)1 задача на литкод, выходные отдых (250 задач в год), коллеги подскажут
+
+Git:
+1)подписаться на коллег https://github.com/orgs/SENATOROVAI/teams/senatorov-team  done       
+2)оформить гитхаб https://www.youtube.com/watch?v=pm17VwdJ6UI  done
+3)выбор шаблона https://github.com/abhisheknaiidu/awesome-github-profile-readme done 
+4)https://t.me/SenatorovBootcamp/3602/5714 (начать делать)
+                                                                    
+Python:
+1)https://t.me/SenatorovBootcamp/1/5243 выполнить первый пункт
+2)https://www.kaggle.com/learn/intro-to-programming 
+
+Computer Science:
+1) компьютер сайнс пройти курс https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124 done
+2) посмотреть видео https://www.youtube.com/watch?v=Wh22_O8jXVQ&list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc  
+
+11/13
+
+Informatics:
+1) https://stepik.org/course/100056/promo
+2) https://stepik.org/course/102381/promo
+3) https://stepik.org/course/100486/promo
+4) https://stepik.org/course/122809/promo
+5) https://stepik.org/course/123677/promo
+
+Math:
+1) https://stepik.org/course/91/info
+2) https://stepik.org/course/1127/promo
+
+Theory info:
+1) https://stepik.org/course/11488/promo
+2) https://stepik.org/course/92770/promo
+
+Logic:
+1) https://stepik.org/course/48679/promo
+
+Sets:
+1) https://stepik.org/course/103631/promo
+
+SQL:
+1) https://stepik.org/course/63054/info
+2) sql-academy.org
